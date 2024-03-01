@@ -1,9 +1,5 @@
 # Pizza Sales Analysis
 
-![1  Dash 1](https://github.com/niladrimitra/PizzaAnalysis/assets/70979494/74d21bc6-9944-4a77-b5b8-a56a9cdbf898)
-
-![3  Dash 2](https://github.com/niladrimitra/PizzaAnalysis/assets/70979494/b3a9cc46-ac15-4fa6-bd64-bc8f4fdb5427)
-
 ## Overview
 
 This is a SQL portfolio project which uses a combination of tools to clean, transform and visualize data for a pizza store, hence enabling us to derive insights and find opportunities to increase sales. 
